@@ -1,0 +1,5 @@
+﻿patient_id,laterality,view,file_path,years_to_cancer,years_to_last_followup,split_group,exam_id
+1,L,CC,data/test_png/LCC_0000.dcm.png,5,6,test,0
+1,R,CC,data/test_png/RCC_0000.dcm.png,5,6,test,0
+1,L,MLO,data/test_png/LMLO_0000.dcm.png,5,6,test,0
+1,R,MLO,data/test_png/RMLO_0000.dcm.png,5,6,test,0
